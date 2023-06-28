@@ -9,10 +9,10 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Portfolio',
+  title: 'Bonjour, je suis,
   name: 'Yanis Hamiane',
-  subtitle: '',
-  cta: '',
+  subtitle: 'Je suis un élève de EPSI PARIS'
+  cta: 'En savoir plus',
 };
 
 // ABOUT DATA
