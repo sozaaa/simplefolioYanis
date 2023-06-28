@@ -4,13 +4,13 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: '', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  description: '', // e.g: Bienvenue dans mon portfolio
 };
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
+  title: 'Portfolio',
+  name: 'Yanis Hamiane',
   subtitle: '',
   cta: '',
 };
@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'https://www.epsi.fr/wp-content/uploads/2021/09/logoEpsiFondBlanc.svg',
     title: '',
     info: '',
     info2: '',
