@@ -9,9 +9,9 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Bonjour, je suis,
+  title: 'Bonjour, je suis',
   name: 'Yanis Hamiane',
-  subtitle: 'Je suis un élève de EPSI PARIS'
+  subtitle: 'Je suis un élève de EPSI PARIS',
   cta: 'En savoir plus',
 };
 
